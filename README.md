@@ -3,9 +3,9 @@
 ## Table of Contents
 
 - [project overview](#project-overview)
-- [Problem Statement](problem-statement)
-- [Dataset Overview](Dataset-overview)
-- [Data source](Data-source)
+- [Problem Statement](Problem-Statement)
+- [Dataset Overview](Dataset-Overview)
+- [Data source](Data-Source)
 - [Tool used](tool-used)
 - [Geography Dashboard Analysis](Geography-Dashboard-Analysis)
 - [Time Series Dashboard Analysis](Time-Series-Dashboard-Analysis)
