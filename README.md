@@ -73,6 +73,7 @@ KPI Cards:
 
 •	Total legitimate transactions
 
+# GEOGRAPHY DASHBOARD
 ![Screenshot 2025-07-02 100114](https://github.com/user-attachments/assets/df1a603a-4e27-4b50-92b9-1527c18e0a6a)
 
 
@@ -98,6 +99,7 @@ KPI Cards:
 
 •	Month with the highest fraud
 
+# TIME SERIES DASHBOARD
 ![Screenshot 2025-07-02 100343](https://github.com/user-attachments/assets/276f278f-35fc-4a1a-9422-ae7393a982cc)
 
 ### Methodology
