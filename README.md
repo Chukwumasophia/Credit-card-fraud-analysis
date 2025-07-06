@@ -1,4 +1,4 @@
-# Credit-card-fraud-analysis
+# Credit Card Fraud Analysis
 
 ## Table of Contents
 
