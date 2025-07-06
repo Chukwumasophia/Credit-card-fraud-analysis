@@ -32,7 +32,7 @@ Credit card fraud continues to threaten financial security and customer trust. T
 
 ### Data Source
 
-This project uses a primary credit card dataset stored in a CSV file format. The dataset contains detailed information on credit card transactions.
+This project uses a primary credit card dataset stored in a CSV file format. The dataset contains detailed information on credit card transactions,collected from kaggle
 
 ### Tools Used
 
@@ -51,7 +51,7 @@ o	PivotTables & Charts (for analysis)
 
 •	Dashboard design: slicers, KPI cards, insight layout
 
-### Geography Dashboard Analysis
+## Geography Dashboard Analysis
 
 Key Charts:
 
@@ -73,7 +73,10 @@ KPI Cards:
 
 •	Total legitimate transactions
 
-### Time Series Dashboard Analysis
+![Screenshot 2025-07-02 100114](https://github.com/user-attachments/assets/df1a603a-4e27-4b50-92b9-1527c18e0a6a)
+
+
+## Time Series Dashboard Analysis
 
 Key Charts:
 
@@ -94,6 +97,8 @@ KPI Cards:
 •	Week type with highest fraud
 
 •	Month with the highest fraud
+
+![Screenshot 2025-07-02 100343](https://github.com/user-attachments/assets/276f278f-35fc-4a1a-9422-ae7393a982cc)
 
 ### Methodology
 
