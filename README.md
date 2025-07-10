@@ -2,27 +2,30 @@
 
 ## Table of Contents
 
-- [project overview](#project-overview)
-- [Problem Statement](Problem-Statement)
-- [Dataset Overview](Dataset-Overview)
-- [Data source](Data-Source)
-- [Tool used](tool-used)
-- [Geography Dashboard Analysis](Geography-Dashboard-Analysis)
-- [Time Series Dashboard Analysis](Time-Series-Dashboard-Analysis)
-- [Methodology](Methodology)
-- [Findings and Analysis](Findings-and-Analysis)
-- [Recommendations](Recommendations)
+## Table of Contents
+
+- [Project Overview](#project-overview)  
+- [Problem Statement](#problem-statement)  
+- [Dataset Overview](#dataset-overview)  
+- [Data Source](#data-source)  
+- [Tools Used](#tools-used)  
+- [Geography Dashboard Analysis](#geography-dashboard-analysis)  
+- [Time Series Dashboard Analysis](#time-series-dashboard-analysis)  
+- [Methodology](#methodology)  
+- [Findings and Analysis](#findings-and-analysis)  
+- [Recommendations](#recommendations)
+
 
 
 ### Project Overview
 
 Credit card fraud represents a significant threat to the integrity of financial transactions and consumer trust in digital commerce. As the reliance on credit cards for everyday purchases continues to grow, so does the sophistication of fraudsters exploiting vulnerabilities in the system This project analyses historical credit card transaction data to detect fraud patterns and identify high-risk behaviours. Using Microsoft Excel, the data was cleaned, transformed, and modelled into interactive dashboards that uncover geographic and temporal insights around fraudulent activities
 
-### Problem Statement
+## Problem Statement
 
 Credit card fraud continues to threaten financial security and customer trust. This project aims to analyse patterns of credit card fraud, understand the factors contributing to fraudulent activities, and explore effective methods for detection and prevention
 
-### Dataset Overview
+## Dataset Overview
 
 •	Rows: 100,000+ transactions
 
@@ -30,11 +33,11 @@ Credit card fraud continues to threaten financial security and customer trust. T
 
 •	Fraud Indicator: Binary (1 = Fraud, 0 = Legitimate)
 
-### Data Source
+## Data Source
 
 This project uses a primary credit card dataset stored in a CSV file format. The dataset contains detailed information on credit card transactions,collected from kaggle
 
-### Tools Used
+## Tools Used
 
 •	Microsoft Excel:
 
@@ -102,7 +105,7 @@ KPI Cards:
 # TIME SERIES DASHBOARD
 ![Screenshot 2025-07-02 100343](https://github.com/user-attachments/assets/276f278f-35fc-4a1a-9422-ae7393a982cc)
 
-### Methodology
+## Methodology
 
 •	Imported CSV file into Excel Power Query
 
@@ -114,7 +117,7 @@ KPI Cards:
 
 •	Applied data visualizations and slicers for interactivity
 
-### Findings and Analysis
+## Findings and Analysis
 
 •	Fraud peaked between 1–4 AM, especially on weekdays
 
@@ -126,7 +129,7 @@ KPI Cards:
 
 •	Weekdays showed elevated fraud activity across all cities
 
-### Recommendations
+## Recommendations
 
 •	Monitor transactions during off-hours (12 AM – 5 AM) more closely
 
@@ -138,5 +141,6 @@ KPI Cards:
 
 •	Use behavior-based thresholds rather than static rules
 
+![WhatsApp Image 2025-07-06 at 10 48 57 PM](https://github.com/user-attachments/assets/788a8357-64f9-45fe-b86b-680fcae9abbc)
 
 
